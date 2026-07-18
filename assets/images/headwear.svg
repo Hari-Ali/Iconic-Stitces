@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 480" role="img" aria-labelledby="t d">
+<title id="t">CAPS / HEADWEAR</title><desc id="d">Stylized DIGITEX sample artwork for Industry.</desc>
+<defs><pattern id="stitch" width="13" height="13" patternUnits="userSpaceOnUse"><path d="M0 13 13 0" stroke="#fff" stroke-opacity=".07" stroke-width="2"/></pattern><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#f8fafc"/></linearGradient></defs>
+<rect width="560" height="480" rx="32" fill="#134e4a"/><circle cx="458" cy="46" r="110" fill="#5eead4" opacity=".12"/><circle cx="70" cy="430" r="130" fill="#f8fafc" opacity=".10"/><rect width="560" height="480" rx="32" fill="url(#stitch)"/>
+<g><path d="M122 265c25-98 103-153 204-129 55 13 92 51 112 113-105-30-210-25-316 16Z" fill="#5eead4"/><path d="M133 267c111-24 219-20 325 13-68 28-178 35-325-13Z" fill="#f8fafc" opacity=".9"/><text x="280" y="231" text-anchor="middle" font-size="88" font-weight="800" fill="#134e4a">DX</text></g>
+<text x="38" y="420" font-size="19" font-family="Arial" font-weight="700" fill="#fff">CAPS / HEADWEAR</text><text x="38" y="447" font-size="13" font-family="Arial" letter-spacing="2.4" fill="#fff" opacity=".58">DIGITEX / INDUSTRY</text>
+</svg>

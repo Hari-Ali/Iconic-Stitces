@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 480" role="img" aria-labelledby="t d">
+<title id="t">BOTANIC / MARK</title><desc id="d">Stylized DIGITEX sample artwork for Logo Digitizing.</desc>
+<defs><pattern id="stitch" width="13" height="13" patternUnits="userSpaceOnUse"><path d="M0 13 13 0" stroke="#fff" stroke-opacity=".07" stroke-width="2"/></pattern><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6ee7b7"/><stop offset="1" stop-color="#fef3c7"/></linearGradient></defs>
+<rect width="560" height="480" rx="32" fill="#064e3b"/><circle cx="458" cy="46" r="110" fill="#6ee7b7" opacity=".12"/><circle cx="70" cy="430" r="130" fill="#fef3c7" opacity=".10"/><rect width="560" height="480" rx="32" fill="url(#stitch)"/>
+<g><path d="M282 360V156" stroke="#6ee7b7" stroke-width="14" stroke-linecap="round"/><path d="M282 208c-65 4-101-27-108-88 62-2 98 27 108 88Zm0 64c64 4 100-27 108-88-62-2-98 27-108 88Zm0 32c-52 4-82-22-88-70 49-2 79 22 88 70Z" fill="#6ee7b7"/><circle cx="282" cy="124" r="48" fill="#fef3c7"/><circle cx="282" cy="124" r="19" fill="#064e3b"/></g>
+<text x="38" y="420" font-size="19" font-family="Arial" font-weight="700" fill="#fff">BOTANIC / MARK</text><text x="38" y="447" font-size="13" font-family="Arial" letter-spacing="2.4" fill="#fff" opacity=".58">DIGITEX / LOGO DIGITIZING</text>
+</svg>

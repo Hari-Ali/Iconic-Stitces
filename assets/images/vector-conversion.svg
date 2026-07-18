@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 480" role="img" aria-labelledby="t d">
+<title id="t">VECTOR / BEFORE + AFTER</title><desc id="d">Stylized DIGITEX sample artwork for Vector Art.</desc>
+<defs><pattern id="stitch" width="13" height="13" patternUnits="userSpaceOnUse"><path d="M0 13 13 0" stroke="#fff" stroke-opacity=".07" stroke-width="2"/></pattern><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a7f3d0"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
+<rect width="560" height="480" rx="32" fill="#1e293b"/><circle cx="458" cy="46" r="110" fill="#a7f3d0" opacity=".12"/><circle cx="70" cy="430" r="130" fill="#2563eb" opacity=".10"/><rect width="560" height="480" rx="32" fill="url(#stitch)"/>
+<g><rect x="75" y="96" width="190" height="270" rx="26" fill="#a7f3d0" opacity=".35"/><path d="M101 291c34-77 72-118 116-122 17 61 6 116-32 166" fill="none" stroke="#2563eb" stroke-width="15" stroke-linecap="round" stroke-dasharray="6 18"/><path d="m311 329 66-175 88 175H311Z" fill="#a7f3d0"/><circle cx="377" cy="232" r="35" fill="#2563eb"/><path d="M279 230h36m-18-18v36" stroke="#fff" stroke-width="9" stroke-linecap="round"/></g>
+<text x="38" y="420" font-size="19" font-family="Arial" font-weight="700" fill="#fff">VECTOR / BEFORE + AFTER</text><text x="38" y="447" font-size="13" font-family="Arial" letter-spacing="2.4" fill="#fff" opacity=".58">DIGITEX / VECTOR ART</text>
+</svg>

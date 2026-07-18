@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 480" role="img" aria-labelledby="t d">
+<title id="t">TIGER / CHEST</title><desc id="d">Stylized DIGITEX sample artwork for Embroidery.</desc>
+<defs><pattern id="stitch" width="13" height="13" patternUnits="userSpaceOnUse"><path d="M0 13 13 0" stroke="#fff" stroke-opacity=".07" stroke-width="2"/></pattern><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f59e0b"/><stop offset="1" stop-color="#f97316"/></linearGradient></defs>
+<rect width="560" height="480" rx="32" fill="#111827"/><circle cx="458" cy="46" r="110" fill="#f59e0b" opacity=".12"/><circle cx="70" cy="430" r="130" fill="#f97316" opacity=".10"/><rect width="560" height="480" rx="32" fill="url(#stitch)"/>
+<g><path d="M167 119l76 44 40-58 40 58 76-44-22 107c-9 70-47 114-94 114s-85-44-94-114l-22-107Z" fill="#f59e0b"/><path d="M205 191l49 20-34 25m141-45-49 20 34 25M248 294c24 21 47 21 70 0" fill="none" stroke="#f97316" stroke-width="13" stroke-linecap="round"/><circle cx="235" cy="247" r="9" fill="#111827"/><circle cx="331" cy="247" r="9" fill="#111827"/></g>
+<text x="38" y="420" font-size="19" font-family="Arial" font-weight="700" fill="#fff">TIGER / CHEST</text><text x="38" y="447" font-size="13" font-family="Arial" letter-spacing="2.4" fill="#fff" opacity=".58">DIGITEX / EMBROIDERY</text>
+</svg>
